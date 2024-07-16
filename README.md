@@ -16,3 +16,13 @@ This project aims to estimate the power production of bifacial solar modules usi
 ![Project FlowChart](images/model_flowchart.svg)
 
 ## How To Install and Run this Project 
+
+
+- Ensure you have Python and `pip` installed. You can download Python from [python.org](https://www.python.org/) and `pip` usually comes with it.
+
+### Clone the Repository
+
+First, clone the repository to your local machine:
+```console
+user@:~$ git clone  https://github.com/SoufianeGG/BifacialPowerEstimator.git 
+```
