@@ -8,8 +8,8 @@ This project aims to estimate the power production of bifacial solar modules usi
 
 **View Factor Technique**: Employs the view factor method to accurately estimate power production from bifacial modules.  
 **Climate Adaptability**: Considers different climate conditions, with a special focus on scenarios involving snow coverage.  
-**Meteorological Data Integration**: Utilizes typical meteorological year (TMY) data to provide realistic weather conditions for power estimation.  
-**Power Forecasting**: Includes tools for forecasting power production based on historical and real-time data.  
+**Meteorological Data Integration**: Novel Approach to generate the TMY(Typical Meteorological Year) Using Principal Component Analysis.  
+**Power Forecasting**: Using the forecasted meteorological data from Solcast this tool can be used to accurately forecast the power production of bifacial modules.  
 
 ## Flowchart
 
