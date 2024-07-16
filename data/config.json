@@ -1,0 +1,11 @@
+{
+    "azimuth_angle": 180,
+    "ground_coverage_ratio": 0.001,
+    "number_modules": 3,
+    "number_panels": 4 ,
+    "numbers_rows": 1,
+    "center_height": 2.5,
+    "tilt" : 45, 
+    "sliding_coefficient": -80 
+  }
+  

@@ -1,0 +1,14 @@
+{
+  "name": "Stace_Module",
+  "efficiency": 0.185,
+  "power_rate": 365,
+  "power_table": [365, 419, 438, 456, 474],
+  "gain_table":  [0, 0.15, 0.20, 0.25, 0.30],
+  "width": 1,
+  "length": 2,
+  "orientation": "portrait",
+  "tstc": 25, 
+  "tnoct": 45,
+  "bifaciality_factor": 0.76,
+  "max_power_coef": -0.0036
+}
