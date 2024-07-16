@@ -6,7 +6,7 @@ This project aims to estimate the power production of bifacial solar modules usi
 
 ## Key Features
 
-**View Factor Technique**: Employs the view factor method to accurately estimate power production from bifacial modules.
-**Climate Adaptability**: Considers different climate conditions, with a special focus on scenarios involving snow coverage.
-**Meteorological Data Integration**: Utilizes typical meteorological year (TMY) data to provide realistic weather conditions for power estimation.
-**Power Forecasting**: Includes tools for forecasting power production based on historical and real-time data.
+**View Factor Technique**: Employs the view factor method to accurately estimate power production from bifacial modules.  
+**Climate Adaptability**: Considers different climate conditions, with a special focus on scenarios involving snow coverage.  
+**Meteorological Data Integration**: Utilizes typical meteorological year (TMY) data to provide realistic weather conditions for power estimation.  
+**Power Forecasting**: Includes tools for forecasting power production based on historical and real-time data.  
