@@ -13,6 +13,6 @@ This project aims to estimate the power production of bifacial solar modules usi
 
 ## Flowchart
 
-![Project FlowChart](images/flowchart_model.svg)
+![Project FlowChart](images/model_flowchart.svg)
 
 ## How To Install and Run this Project 
