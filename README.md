@@ -31,3 +31,7 @@ git clone  https://github.com/SoufianeGG/BifacialPowerEstimator.git
 ```sh
 pip install -r requirements.txt  
 ```
+
+## Documentation 
+
+For a detailed example of power estimation, please refer to the tutorials directory. Inside, you will find comprehensive tutorials on power estimation under snowy conditions and TMY (Typical Meteorological Year) generation.
