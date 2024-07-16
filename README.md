@@ -26,6 +26,20 @@ This project aims to estimate the power production of bifacial solar modules usi
 ```sh
 git clone  https://github.com/SoufianeGG/BifacialPowerEstimator.git 
 ```
+- Create the virtual environement : 
+```sh 
+python -m venv venv
+```
+- Activate the virtual environement (Windows):
+```sh
+.\venv\Scripts\activate
+```
+(MAC): 
+
+```sh
+source venv/bin/activate
+```
+
 - Install all the Dependencies : 
 
 ```sh
