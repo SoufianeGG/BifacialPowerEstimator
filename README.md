@@ -1,4 +1,4 @@
-# Bifacial Power Estimator : 
+# Bifacial Power Estimator
 
 ## Project Overview
 
@@ -10,3 +10,9 @@ This project aims to estimate the power production of bifacial solar modules usi
 **Climate Adaptability**: Considers different climate conditions, with a special focus on scenarios involving snow coverage.  
 **Meteorological Data Integration**: Utilizes typical meteorological year (TMY) data to provide realistic weather conditions for power estimation.  
 **Power Forecasting**: Includes tools for forecasting power production based on historical and real-time data.  
+
+## Flowchart
+
+![Project FlowChart](images/flowchart_model.svg)
+
+## How To Install and Run this Project 
