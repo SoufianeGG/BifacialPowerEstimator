@@ -23,6 +23,6 @@ This project aims to estimate the power production of bifacial solar modules usi
 ### Clone the Repository
 
 First, clone the repository to your local machine:
-```console
-user@:~$ git clone  https://github.com/SoufianeGG/BifacialPowerEstimator.git 
+```sh
+git clone  https://github.com/SoufianeGG/BifacialPowerEstimator.git 
 ```
