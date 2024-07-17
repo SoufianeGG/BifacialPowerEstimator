@@ -45,15 +45,16 @@ python -m venv venv
 source venv/bin/activate
 ```
 
-- Install all the Dependencies : 
+- Install the package along with its dependencies (recommended) : 
+```sh
+pip install .
+```
+- Or Install all the Dependencies : 
 
 ```sh
 pip install -r requirements.txt  
 ```
-- Install the package along with its dependencies : 
-```sh
-pip install .
-```
+
 
 ## Documentation 
 

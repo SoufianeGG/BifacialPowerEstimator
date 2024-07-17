@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: BifacialPowerEstimator
+Version: 0.2.0
+Summary: Estimate the power production of bifacial modules
+Author: Soufiane Ghafiri
+Author-email: soufiane.ghafiri@usherbrooke.ca
+License-File: LICENSE
+Requires-Dist: numpy==1.25.0
+Requires-Dist: pandas==2.0.2
+Requires-Dist: pvfactors==1.5.2
+Requires-Dist: pvlib==0.9.5
+Requires-Dist: requests==2.31.0
+Requires-Dist: scipy==1.11.0
+Requires-Dist: plotly==5.15.0
+Requires-Dist: pytz==2023.3
+Requires-Dist: calplot==0.1.7.5
+Requires-Dist: tqdm==4.66.1
