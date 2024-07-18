@@ -15,11 +15,6 @@ This project aims to estimate the power production of bifacial solar modules usi
 
 ![Project FlowChart](images/model_flowchart.svg)
 
-- Validation of the model using the installed system at the UdeS campus:  
-<p align = 'center'>
-<img src="images/validation.svg" alt="Validation" width="600"/>
-</p>
-
 ## How To Install and Run this Project 
 
 
@@ -64,3 +59,10 @@ pip install -r requirements.txt
 ## Documentation 
 
 For a detailed example of power estimation, please refer to the tutorials directory. Inside, you will find comprehensive tutorials on power estimation under snowy conditions and TMY (Typical Meteorological Year) generation.
+
+## Validation
+
+- Validation of the model using the installed system at the UdeS campus:  
+<p align = 'center'>
+<img src="images/validation.svg" alt="Validation" width="600"/>
+</p>
