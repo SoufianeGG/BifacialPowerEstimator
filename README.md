@@ -15,6 +15,11 @@ This project aims to estimate the power production of bifacial solar modules usi
 
 ![Project FlowChart](images/model_flowchart.svg)
 
+- Validation of the model using the installed system in Udes Campus : 
+
+![Project FlowChart](images/valition.svg)
+
+
 ## How To Install and Run this Project 
 
 
